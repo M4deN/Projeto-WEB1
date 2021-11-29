@@ -1,12 +1,12 @@
 # Programacao Web 
-## IF66H(Código da disciplina) ES61(Código da Turma) 2021-1
+## IF66H(Código da disciplina) ES61(Código da Turma) 2021-2
 ### UTFPR
 
-Autor: Lucas Malheiros, R.A. 1835793
+Autor: Alécio Leandro De Medeiros
 
 
 ## Proposta
-O objetivo da aplicação é a criação de uma espécie de site de agendamento de salas da universidade
+O objetivo da aplicação é a criação de uma espécie de site de agendamento de salas de um edificio
 
 ## Avaliações
 A segunda entrega da aplicação será avaliada com base nos critérios:
@@ -30,7 +30,3 @@ O projeto web deve contemplar uma aplicação web COERENTE com no mínimo 5 pág
 (2,0) - Critério 8: Aplicação de no mínimo 10 heurísticas de interface. 0,2 por elemento
 
 (0,5) - Critério 9: Manter o estado de login na store do navegador
-
-Data entrega 24/08/2021
-
-### Nota: 10/10
