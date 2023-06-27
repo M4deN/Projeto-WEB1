@@ -1,29 +1,27 @@
-# Programação Web
-## IF66H (Código da disciplina) ES61 (Código da Turma) 2021-2
-### UTFPR
+# Programação WEB 1
 
-Autor: Alécio Leandro De Medeiros
+### UTFPR
 
 ## Proposta
 O objetivo da aplicação é a criação de uma espécie de site de agendamento de salas de um edifício.
 
 ## Requisitos
 
-- Coerência da aplicação. A aplicação resolve um problema? (1,0)
+- Coerência da aplicação. A aplicação resolve um problema? 
 
-- Há no mínimo 5 páginas web? Exemplos: Principal, Contato, Carrinho de compras, Login, etc. 0,2 por elemento.
+- Há no mínimo 5 páginas web? Exemplos: Principal, Contato, Carrinho de compras, Login, etc.
 
-- Uso de no mínimo 5 elementos elaborados/customizados em ReactJS e reutilizados dentro do projeto? (Exemplos: cabeçalhos, rodapés, cards, listas, rótulos de texto, botões com ícones, imagens com legendas, tabelas, formulários). 0,2 por elemento.
+- Uso de no mínimo 5 elementos elaborados/customizados em ReactJS e reutilizados dentro do projeto? (Exemplos: cabeçalhos, rodapés, cards, listas, rótulos de texto, botões com ícones, imagens com legendas, tabelas, formulários).
 
-- Posicionamento/tamanho/estilo adequados dos elementos de interface (cabeçalhos, rodapés, bordas, tamanhos, margens, cores). No mínimo 5 regras aplicadas em todo o projeto. 0,2 por elemento.
+- Posicionamento/tamanho/estilo adequados dos elementos de interface (cabeçalhos, rodapés, bordas, tamanhos, margens, cores). No mínimo 5 regras aplicadas em todo o projeto.
 
 - Implementação de rotas e navegação entre páginas.
 
-- Persistência de dados de ao menos 3 entidades (tabelas) usando Firebase ou qualquer outro backend de persistência. CRUD (Create, Recovery, Update e Delete) de cada tabela vale 0,5 pontos.
+- Persistência de dados de ao menos 3 entidades (tabelas) usando Firebase ou qualquer outro backend de persistência. CRUD (Create, Recovery, Update e Delete) de cada tabela.
 
 - Uso de REDUX.
 
-- Aplicação de no mínimo 10 heurísticas de interface. 0,2 por elemento.
+- Aplicação de no mínimo 10 heurísticas de interface.
 
 - Manter o estado de login na store do navegador.
 
@@ -87,5 +85,3 @@ Isso iniciará o aplicativo em modo de desenvolvimento. Abra o navegador e acess
 - "web-vitals": "^1.1.2"
 
 Certifique-se de que todas as dependências estejam instaladas corretamente antes de executar o projeto.
-
-Esse é um exemplo básico de como você pode criar um `README` para o projeto. Certifique-se de ajustar as informações e instruções de acordo com os detalhes específicos do seu projeto.
